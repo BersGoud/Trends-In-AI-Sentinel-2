@@ -1,9 +1,10 @@
-numpy
+oauthlib
+requests_oauthlib
+geopy
 matplotlib
 rasterio
-opencv-python
+numpy
 scikit-learn
+IPython
 requests
-oauthlib
-requests-oauthlib
-geopy
+folium
